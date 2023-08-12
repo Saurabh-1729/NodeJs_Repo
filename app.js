@@ -1,2 +1,2 @@
-console.log('Welcome to Node Tutorial')
-console.log("hello");
+console.log('now i understood how it works so welcome to Node Tutorial')
+console.log("bye");
